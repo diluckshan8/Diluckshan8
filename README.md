@@ -15,8 +15,8 @@
 </div>
 
 ### :woman_technologist: About Me :
-- 👋 Hi there, 👋 I'm Diluckshan. A Senior Software Engineer from Srilanka in Java Backend development on Springboot Framework.
-- 👀 I’m currently working in Wavenet Solution Pvt Ltd.
+- 👋 Hi there, 👋 I'm Diluckshan. A Senior Software Engineer from Srilanka in Java Backend development on Springboot Framework specialised in Microservices.
+- 👀 I’m currently working in Sysco LABS Sri Lanka.
 - 🌱 I’m currently learning and/or refreshing my knowledge on Erlang and Python as well as some Machine Learning and whatever possible.
 
 ### :hammer_and_wrench: Languages and Tools :
